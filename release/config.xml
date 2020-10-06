@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- Paramètres général de l'application -->
+  <settings version="1">
+    <api url="http://127.0.0.1/HUD/api.php" password="password_api" />
+    <hud url="http://127.0.0.1/HUD/index.html" />
+  </settings>
+
+  <!-- Système d'alias et de configuration spécifique par joueur -->
+  <players>
+    <player uid="76561197999832344" profil_name="central" gui_name="Loic" />
+    <player profil_name="famille" gui_name="Florentin" />
+    <player profil_name="rick" gui_name="Richard" />
+  </players>
+</root>
